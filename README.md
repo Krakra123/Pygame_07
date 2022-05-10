@@ -1,7 +1,8 @@
 # Pygame_07
  pygame07
 
-- Chạy game bằng file "Main.exe" trong "Game"
+- Chạy game trực tiếp bằng file "Main.exe" trong "Game"
+- Chạy game qua cmd bằng file "Main.py" trong "Game"
 
 -
 
